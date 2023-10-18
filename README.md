@@ -9,4 +9,4 @@ thesre is a save button that user can save notes for each time block that will s
 ### The following image shows the web application's appearance and functionality:
 ![preview image](https://github.com/samiyeahsan/scheduler-html/blob/main/asset/workday.gif)
 
-[Deployed Link](https://samiyeahsan.github.io/scheduler-html/)git
+[Deployed Link](https://samiyeahsan.github.io/scheduler-html/)
